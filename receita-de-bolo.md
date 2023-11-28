@@ -6,3 +6,6 @@
 - 1 colher de sopa de fermento
 - 1 xicara de leite
 ## Como fazer
+- Misturar os ovos e a manteiga
+- colocar o trigo
+- misturar o trigo junto da manteiga e os ovos
