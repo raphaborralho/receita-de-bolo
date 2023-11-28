@@ -10,3 +10,5 @@
 - Untar a forma com óleo
 - Despejar essa mistura na forma untada
 - Colocar a forma no forno ligado na temperatura de 180 Graus
+- Misturar os ovos e a manteiga
+- colocar o trigo
