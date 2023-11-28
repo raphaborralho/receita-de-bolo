@@ -9,4 +9,4 @@
 - Misturar todos os ingredientes e bater no liquidificador
 - Untar a forma com óleo
 - Despejar essa mistura na forma untada
-- Colocar a forma no forno ligado na temperatura de 220 Graus
+- Colocar a forma no forno ligado na temperatura de 180 Graus
