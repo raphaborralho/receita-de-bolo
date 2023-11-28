@@ -8,4 +8,4 @@
 ## Como fazer
 - Misturar os ovos e a manteiga
 - colocar o trigo
-- 
+- misturar o trigo junto da manteiga e os ovos
